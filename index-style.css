@@ -1,0 +1,38 @@
+body {
+    background-color: #eeeeee;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px;
+    color: #6c584c;
+}
+
+#menus {
+    padding-top: 20vh;
+}
+
+.menu {
+    margin-bottom: 6vh;
+    font-size: 3vh;
+}
+
+.index {
+    padding-left: 75%;
+}
+
+.identifier {
+    padding-left: 10%;
+}
+
+.processing {
+    padding-left: 40%;
+}
+
+.time {
+    padding-left: 55%;
+}
+
+.location {
+    padding-left: 25%;
+}

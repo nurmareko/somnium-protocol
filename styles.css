@@ -1,0 +1,44 @@
+body {
+    background-color: #eeeeee;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px;
+    color: #6c584c;
+}
+
+input {
+    color: #594e4a;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    width: 50vh;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+#menus {
+    padding-top: 20vh;
+}
+
+#messageBox {
+    padding: 5px;
+    margin-top: 10%;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: #b0ab98;
+    color: #594e4a;
+    height: 23vh;
+    width: 60vh;
+}
+
+#menu {
+    margin-bottom: 6vh;
+    font-size: 3vh;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}

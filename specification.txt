@@ -1,0 +1,24 @@
+html tags:
+1 link
+2 script
+3 meta
+4 div
+5 a
+6 p
+7 input
+8 strong
+9 br
+10 em
+
+css properties:
+1 background-color
+2 text-decoration
+3 margin
+4 color
+5 padding-top
+
+bootstrap
+  I use the the one that come with the base file.
+
+javascript
+  I use javascript to animate the terminal.
